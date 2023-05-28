@@ -1,6 +1,6 @@
 ### Travel & Gym enthusiast learning to code  👋
 ________________________________________________________________________________________________________________
-###### Currently studying .Net development remotely at a Swedish Univeristy, EC utbildning of Karlstad.)
+###### Currently studying .Net development remotely at a Swedish University, EC utbildning in Karlstad.
 ###### My name is Noah and I'm orginally from Sweden, but have been living in Medellin, Colombia for the last 2 years.
 ________________________________________________________________________________________________________________
 ### Im currently working on
