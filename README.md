@@ -20,9 +20,11 @@ ________________________________________________________________________________
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 
 
-<img align="left" width="47%" src="https://github-readme-stats.vercel.app/api?username=Noahh93&show_icons=true&theme=transparent" /> 
-<h1 \n> </h1>
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Noahh93)](https://github.com/Noahh93/github-readme-stats)
+
+<img align="left" width="47%" src="https://github-readme-stats.vercel.app/api?username=Noahh93&show_icons=true&theme=transparent" /> 
+
 
 
 
