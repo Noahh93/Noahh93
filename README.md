@@ -13,13 +13,11 @@ In my current learning phase, I am engaged in various exciting projects and area
 
 Moreover, I am honing my debugging skills, which play a crucial role in identifying and fixing errors and issues within the code. This process allows me to enhance the functionality and reliability of my projects, ensuring smooth operation and optimal performance.
 
-Additionally, I am delving into the realm of logic and algorithms. This involves exploring complex problem-solving techniques and implementing efficient algorithms to optimize the execution of tasks and enhance the overall efficiency of software applications.
-
 :nerd_face: Throughout my coding journey, I have been utilizing various resources to enhance my skills :nerd_face: I frequently rely on platforms such as YouTube, CodeWars, and CodeAcademy to expand my knowledge and learn from experts in the field. Furthermore, I have also enrolled in paid courses that provide comprehensive learning materials and in-depth tutorials, allowing me to further refine my abilities.
 
 As I progress in my .NET development studies, I am excited to continue exploring new technologies :dart: sharpening my skills, and contributing to innovative projects that make a positive impact :hearts:
-### Im currently working on
-
+### Check below what I'm currently working on
+-----------------------------------------
 
 • .NET development
 • Debugging
