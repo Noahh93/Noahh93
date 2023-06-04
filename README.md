@@ -1,16 +1,40 @@
 ### Travel & Gym enthusiast learning to code  👋
 ________________________________________________________________________________________________________________
-###### Currently studying .Net development remotely at a Swedish University, EC utbildning in Karlstad.
-###### My name is Noah and I'm orginally from Sweden, but have been living in Medellin, Colombia for the last 2 years.
+As a passionate traveler and gym enthusiast, I have embarked on a new journey of learning to code, riding the wave of technology. Currently, I am pursuing my studies in .NET development through remote learning at EC utbildning, a reputable Swedish University located in Karlstad.
+
+
+### A little bit about me
 ________________________________________________________________________________________________________________
+My name is Noah, and although I am originally from Sweden, I have spent the past two years living in the vibrant city of Medellin, Colombia. It has been an enriching experience that has broadened my perspective and allowed me to immerse myself in a diverse culture.
+
+In my current learning phase, I am engaged in various exciting projects and areas of focus. Firstly, I am working on developing an advanced E-Commerce platform. This project requires me to apply my skills in software architecture, database design, and user experience optimization to create a seamless and efficient online shopping experience :star2:
+
+-----------------------------------------
+
+Moreover, I am honing my debugging skills, which play a crucial role in identifying and fixing errors and issues within the code. This process allows me to enhance the functionality and reliability of my projects, ensuring smooth operation and optimal performance.
+
+Additionally, I am delving into the realm of logic and algorithms. This involves exploring complex problem-solving techniques and implementing efficient algorithms to optimize the execution of tasks and enhance the overall efficiency of software applications.
+
+:nerd_face: Throughout my coding journey, I have been utilizing various resources to enhance my skills :nerd_face: I frequently rely on platforms such as YouTube, CodeWars, and CodeAcademy to expand my knowledge and learn from experts in the field. Furthermore, I have also enrolled in paid courses that provide comprehensive learning materials and in-depth tutorials, allowing me to further refine my abilities.
+
+As I progress in my .NET development studies, I am excited to continue exploring new technologies :dart: sharpening my skills, and contributing to innovative projects that make a positive impact :hearts:
 ### Im currently working on
-•	E-Commerce platform
 
-•	Debugging
 
-•	Logic
+• .NET development
+• Debugging
+• Logic
+• Algorithms
+• Software architecture
+• Database design
+• User experience
+• Optimization
+• Software applications
 
-•	Algorithms
+
+
+
+
 
 ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white)
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
