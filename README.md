@@ -19,15 +19,15 @@ As I progress in my .NET development studies, I am excited to continue exploring
 ### Check below what I'm currently working on
 -----------------------------------------
 
-• .NET development
-• Debugging
-• Logic
-• Algorithms
-• Software architecture
-• Database design
-• User experience
-• Optimization
-• Software applications
+<h4> • .NET development </h4>
+<h4> • Debugging </h4>
+<h4> • Logic </h4>
+<h4> • Algorithms </h4>
+<h4> • Software architecture </h4>
+<h4> • Database design </h4>
+<h4> • User experience </h4>
+<h4> • Optimization </h4>
+<h4> • Software applications </h4>
 
 
 
