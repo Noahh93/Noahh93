@@ -19,7 +19,6 @@ As I progress in my .NET development studies, I am excited to continue exploring
 ### Check below what I'm currently working on
 -----------------------------------------
 
-<h4> • .NET development </h4>
 <h4> • Debugging </h4>
 <h4> • Logic </h4>
 <h4> • Algorithms </h4>
