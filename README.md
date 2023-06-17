@@ -2,7 +2,7 @@
 ________________________________________________________________________________________________________________
 As a passionate traveler and books enthusiast, I have embarked on a new journey of learning to code, riding the wave of technology. Currently, I am pursuing my studies in .NET development through remote learning at EC utbildning, a reputable Swedish University located in Karlstad.
 
-1
+
 ### A little bit about me
 ________________________________________________________________________________________________________________
 My name is Noah, and although I am originally from Sweden, I have spent the past two years living in the vibrant city of Medellin, Colombia. It has been an enriching experience that has broadened my perspective and allowed me to immerse myself in a diverse culture.
